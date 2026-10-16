@@ -1,0 +1,8 @@
+langchain>=1.4.2
+langchain-core>=1.6.3
+langchain-community>=0.4.2
+langchain-google-genai>=4.4.0
+sqlalchemy>=2.0
+pymysql>=1.1.0
+python-dotenv>=1.0.0
+streamlit>=1.40.0
